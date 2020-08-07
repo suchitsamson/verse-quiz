@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800000</color>
+    <color name="colorPrimaryDark">#800000</color>
+    <color name="colorAccent">#42ccc9</color>
+    <color name="colorBackground">#f8fbfd</color>
+    <color name="colorUnselected">#bccadf</color>
+    <color name="colorSelected">#f5da88</color>
+    <color name="colorSplashBackground">#db653d</color>
+    <color name="colorPopup">#bccadf</color>
+    <color name="colorPopupText">#f8fbfd</color>
+</resources>

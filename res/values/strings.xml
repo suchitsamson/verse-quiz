@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="empty"></string>
+    <color name="light_blue">#226599</color>
+    <color name="dark_blue">#00285b</color>
+    <color name="white">#ffffff</color>
+</resources>
